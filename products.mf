@@ -1,81 +1,81 @@
 producto,tipo,existencia,precio
-Arroz, grano, @, #
-Frijoles, grano, @, #
-Azúcar, refinada, @, #
-Sal, de mesa, @, #
-Aceite, vegetal, @, #
-Atún, en lata, @, #
-Sardinas, en lata, @, #
-Leche, en polvo, @, #
-Leche, evaporada, @, #
-Leche, condensada, @, #
-Huevo, blanco, @, #
-Huevo, rojo, @, #
-Queso, Oaxaca, @, #
-Queso, panela, @, #
-Jamón, de pavo, @, #
-Jamón, de cerdo, @, #
-Salchicha, tipo Viena, @, #
-Salchicha, tipo Frankfurt, @, #
-Tocino, ahumado, @, #
-Chorizo, de cerdo, @, #
-Chiles, jalapeños, en lata, @, #
-Chiles, chipotles, en lata, @, #
-Tomate, rojo, @, #
-Cebolla, blanca, @, #
-Papa, blanca, @, #
-Zanahoria, fresca, @, #
-Calabaza, verde, @, #
-Plátano, macho, @, #
-Manzana, roja, @, #
-Naranja, Valencia, @, #
-Limón, agrio, @, #
-Piña, natural, @, #
-Sandía, fresca, @, #
-Melón, fresco, @, #
-Fresas, frescas, @, #
-Uvas, rojas, @, #
-Pan, blanco, @, #
-Pan, integral, @, #
-Galletas, María, @, #
-Galletas, saladas, @, #
-Cereal, de maíz, @, #
-Cereal, de trigo, @, #
-Refresco, de cola, @, #
-Refresco, de naranja, @, #
-Refresco, de limón, @, #
-Agua, natural, @, #
-Agua, mineral, @, #
-Café, soluble, @, #
-Café, de grano, @, #
-Té, negro, @, #
-Té, verde, @, #
-Jugo, de naranja, @, #
-Jugo, de manzana, @, #
-Jugo, de piña, @, #
-Cerveza, de lata, @, #
-Cerveza, de botella, @, #
-Vino, tinto, @, #
-Vino, blanco, @, #
-Vodka, @, #
-Ron, @, #
-Tequila, @, #
-Whisky, @, #
-Mermelada, de fresa, @, #
-Mermelada, de durazno, @, #
-Miel, natural, @, #
-Café soluble, alimentos, @, #
-Papel higiénico, higiene personal, @, #
-Cepillo de dientes, higiene personal, @, #
-Pasta dental, higiene personal, @, #
-Jabón para manos, higiene personal, @, #
-Pañales para bebé, higiene personal, @, #
-Toallas femeninas, higiene personal, @, #
-Champú, higiene personal, @, #
-Acondicionador para cabello, higiene personal, @, #
-Aceite para cocinar, condimentos, @, #
-Sal, condimentos, @, #
-Azúcar, condimentos, @, #
-Arroz, alimentos, @, #
-Frijoles, alimentos, @, #
-Sardinas en lata, alimentos, @, #
+Leche entera, lácteo, 155, 45.99
+Papas fritas, snacks, 86, 32.50
+Galletas, dulces, 120, 18.75
+Yogurt, lácteo, 75, 24.95
+Cerveza, bebidas alcohólicas, 65, 79.99
+Jabón en barra, higiene personal, 90, 14.50
+Salchichas, carnes frías, 50, 42.80
+Café soluble, bebidas, 40, 56.25
+Arroz, cereales, 100, 22.80
+Refresco de cola, bebidas, 80, 12.50
+Atún en lata, enlatados, 70, 33.75
+Mermelada de fresa, conservas, 60, 21.30
+Aceite de oliva, aceites, 90, 76.50
+Jugo de naranja, jugos, 55, 45.00
+Frijoles negros, legumbres, 110, 15.95
+Carne molida, carnes, 48, 62.90
+Tomate, vegetales, 75, 28.60
+Sal de mesa, condimentos, 95, 6.80
+Cepillo de dientes, higiene personal, 120, 10.50
+Aceitunas verdes, enlatados, 65, 18.20
+Champiñones, vegetales, 80, 36.90
+Lechuga, vegetales, 100, 14.80
+Jabón líquido, higiene personal, 70, 20.40
+Aguacate, frutas, 40, 48.75
+Cereal de avena, cereales, 60, 19.95
+Queso fresco, lácteo, 85, 54.20
+Refresco de limón, bebidas, 75, 14.25
+Tomate verde, vegetales, 50, 32.40
+Chorizo, carnes, 65, 48.50
+Pan blanco, panadería, 120, 8.70
+Limones, frutas, 90, 42.35
+Azúcar morena, condimentos, 95, 12.60
+Mayonesa, aderezos, 70, 28.80
+Salsa de tomate, condimentos, 80, 14.50
+Naranjas, frutas, 110, 24.75
+Pañales, higiene personal, 60, 54.90
+Crema de cacahuate, dulces, 50, 26.30
+Aceite de coco, aceites, 55, 67.25
+Salchichón, carnes frías, 70, 47.90
+Refresco de toronja, bebidas, 85, 13.50
+Arroz, grano, 150, 45.25
+Atún, enlatado, 89, 22.99
+Azúcar moreno, refinada, 70, 52.75
+Café, soluble, 110, 89.99
+Cereal, desayuno, 43, 75.45
+Champiñones, enlatados, 32, 28.99
+Chocolate, tabletas, 65, 12.50
+Crema, lácteos, 98, 34.75
+Detergente, limpieza, 76, 44.99
+Frijoles, enlatados, 54, 18.25
+Gel de baño, higiene personal, 120, 27.50
+Gomitas, dulces, 78, 11.99
+Harina, de trigo, 67, 25.99
+Jabón de tocador, higiene personal, 85, 8.75
+Jugo, concentrado, 21, 32.50
+Leche, evaporada, 102, 19.75
+Lentejas, enlatadas, 46, 16.99
+Mantequilla, lácteos, 53, 38.25
+Mayonesa, aderezos, 73, 16.50
+Mermelada, de fresa, 37, 27.99
+Mostaza, aderezos, 82, 13.75
+Naranjas, frutas, 25, 56.99
+Nopales, verduras, 44, 21.50
+Palomitas, botana, 96, 9.99
+Pan blanco, panadería, 63, 12.75
+Papas, fritas, 51, 23.99
+Pasta dental, higiene personal, 109, 14.50
+Pepinillos, enlatados, 40, 33.25
+Pescado, fresco, 17, 84.99
+Piña, frutas, 31, 42.50
+Queso, amarillo, 78, 56.75
+Refresco, de cola, 95, 17.25
+Sal, de mesa, 82, 9.99
+Sardinas, enlatadas, 52, 11.50
+Shampoo, higiene personal, 116, 21.99
+Sopa instantánea, de pollo, 65, 5.75
+Suavizante, de telas, 93, 32.99
+Té, negro, 87, 28.50
+Tomates, enlatados, 48, 14.75
+Tortillas, de maíz, 54, 10.99

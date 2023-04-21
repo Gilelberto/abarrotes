@@ -1,46 +1,47 @@
 class Products{
     constructor(directory){
         this.directory = directory;
-        this.data = this.chargeData(directory);
+        this.data = [];
+        const fs = require('fs');
+        const file = fs.readFileSync(directory, 'utf-8').split('\n');
+        file.forEach(line => {
+            this.data.push(line.split(",")); 
+        });
     }
 
-    chargeData(file){
-        let promise = new Promise( (resolve,reject) => {
-            const readline = require('readline');
-            const fs = require('fs');
-            let data = []
+    countProductsByExistence(n,operator){
+        let counter = 0;
+        //console.log(this.data.length);
+        if (operator == '+'){
+            for(let i = 0; i < this.data.length; i++ ){
+                //console.log("ENTRAAAAAAAA");
+                if(parseInt(this.data[i][2]) >= n){
+                    counter++;
+                }
+            }
+        }
+        else if (operator == '-'){
+            for(let i = 0; i < this.data.length; i++ ){
+                if(parseInt(this.data[i][2]) < n){
+                    counter++;
+                }
+            }
+        }
+        return counter;
+    }
 
-            const readInterface = readline.createInterface({
-                input: fs.createReadStream(file),
-                console: false
-            });
-
-            readInterface.on('line', (line) => {
-                //console.log(typeof(line));
-                data.push(line.split(","));
-                //console.log(line);
-            });
-            
-            readInterface.on('close', () => {
-                console.log('Lectura de archivo completada.');
-                readInterface.close();
-                resolve(data);
-            });
-
-            readInterface.on('error', (error) => {
-                console.log(`Ha ocurrido un error: ${error}`);
-                reject();
-            });
-
-        });
-
-        return promise;        
+    groupBy(){
+        
     }
 }
-(async () => {
+
+/*(async () => {
     let p1 = new Products('./products.mf');
-    //await p1.chargeData();
-    console.log(await p1.data);
-  })();
+    await p1.data;
+    //console.log(await p1.data);
+    console.log(await p1.countProductsByExistence(25,'+'));
+  })();*/
+
+
   
 module.exports = Products;
