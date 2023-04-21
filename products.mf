@@ -1,0 +1,81 @@
+producto,tipo,existencia,precio
+Arroz, grano, @, #
+Frijoles, grano, @, #
+Azúcar, refinada, @, #
+Sal, de mesa, @, #
+Aceite, vegetal, @, #
+Atún, en lata, @, #
+Sardinas, en lata, @, #
+Leche, en polvo, @, #
+Leche, evaporada, @, #
+Leche, condensada, @, #
+Huevo, blanco, @, #
+Huevo, rojo, @, #
+Queso, Oaxaca, @, #
+Queso, panela, @, #
+Jamón, de pavo, @, #
+Jamón, de cerdo, @, #
+Salchicha, tipo Viena, @, #
+Salchicha, tipo Frankfurt, @, #
+Tocino, ahumado, @, #
+Chorizo, de cerdo, @, #
+Chiles, jalapeños, en lata, @, #
+Chiles, chipotles, en lata, @, #
+Tomate, rojo, @, #
+Cebolla, blanca, @, #
+Papa, blanca, @, #
+Zanahoria, fresca, @, #
+Calabaza, verde, @, #
+Plátano, macho, @, #
+Manzana, roja, @, #
+Naranja, Valencia, @, #
+Limón, agrio, @, #
+Piña, natural, @, #
+Sandía, fresca, @, #
+Melón, fresco, @, #
+Fresas, frescas, @, #
+Uvas, rojas, @, #
+Pan, blanco, @, #
+Pan, integral, @, #
+Galletas, María, @, #
+Galletas, saladas, @, #
+Cereal, de maíz, @, #
+Cereal, de trigo, @, #
+Refresco, de cola, @, #
+Refresco, de naranja, @, #
+Refresco, de limón, @, #
+Agua, natural, @, #
+Agua, mineral, @, #
+Café, soluble, @, #
+Café, de grano, @, #
+Té, negro, @, #
+Té, verde, @, #
+Jugo, de naranja, @, #
+Jugo, de manzana, @, #
+Jugo, de piña, @, #
+Cerveza, de lata, @, #
+Cerveza, de botella, @, #
+Vino, tinto, @, #
+Vino, blanco, @, #
+Vodka, @, #
+Ron, @, #
+Tequila, @, #
+Whisky, @, #
+Mermelada, de fresa, @, #
+Mermelada, de durazno, @, #
+Miel, natural, @, #
+Café soluble, alimentos, @, #
+Papel higiénico, higiene personal, @, #
+Cepillo de dientes, higiene personal, @, #
+Pasta dental, higiene personal, @, #
+Jabón para manos, higiene personal, @, #
+Pañales para bebé, higiene personal, @, #
+Toallas femeninas, higiene personal, @, #
+Champú, higiene personal, @, #
+Acondicionador para cabello, higiene personal, @, #
+Aceite para cocinar, condimentos, @, #
+Sal, condimentos, @, #
+Azúcar, condimentos, @, #
+Arroz, alimentos, @, #
+Frijoles, alimentos, @, #
+Sardinas en lata, alimentos, @, #
