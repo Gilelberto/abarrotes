@@ -1,0 +1,16 @@
+Este archivo es solo para saber que clases de productos existen:
+  'tipo',         'lácteo',              'snacks',
+  'dulces',       'bebidas alcohólicas', 'higiene personal',
+  'carnes frías', 'bebidas',             'cereales',
+  'enlatados',    'conservas',           'aceites',
+  'jugos',        'legumbres',           'carnes',
+  'vegetales',    'condimentos',         'frutas',
+  'panadería',    'aderezos',            'grano',
+  'enlatado',     'refinada',            'soluble',
+  'desayuno',     'tabletas',            'lácteos',
+  'limpieza',     'de trigo',            'concentrado',
+  'evaporada',    'enlatadas',           'de fresa',
+  'verduras',     'botana',              'fritas',
+  'fresco',       'amarillo',            'de cola',
+  'de mesa',      'de pollo',            'de telas',
+  'negro',        'de maíz'
