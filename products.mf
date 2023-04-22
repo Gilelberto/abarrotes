@@ -1,4 +1,3 @@
-producto,tipo,existencia,precio
 Leche entera, lácteo, 155, 45.99
 Papas fritas, snacks, 86, 32.50
 Galletas, dulces, 120, 18.75

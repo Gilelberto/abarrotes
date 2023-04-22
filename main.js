@@ -66,17 +66,3 @@ let p1 = new Products('./products.mf');
 (async function () {
     await menu();
 })();
-
-
-
-
-
-
-
-/*/console.log(p1.data);
-console.log(p1.countProductsByExistence(25,'+')); //existencia mayor a 25
-console.log(p1.countProductsByExistence(15,'-')); //existencia menor a 15
-//console.log(p1.groupByClass('vegetales',p1.data)); 
-p1.listByClassAndPrice(15.50,'>');
-p1.listByClassAndRange(20.30,45);
-p1.countByClass();*/

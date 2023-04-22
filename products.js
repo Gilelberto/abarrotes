@@ -108,15 +108,5 @@ class Products{
         }
     }
 
-}
-
-/*(async () => {
-    let p1 = new Products('./products.mf');
-    await p1.data;
-    //console.log(await p1.data);
-    console.log(await p1.countProductsByExistence(25,'+'));
-  })();*/
-
-
-  
+}  
 module.exports = Products;
